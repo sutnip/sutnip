@@ -13,7 +13,7 @@ My main focus right now is a **Wikipedia CLI Tool**:
 - **Features:** Account authentication, remote sync, and automated local backups.
 - **Status:** Prototyping (Initial release coming soon).
 
----
+<br>
 
 <table border="0">
   <tr>
