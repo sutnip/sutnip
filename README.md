@@ -1,4 +1,4 @@
-# Hi there, I'm sutnip 👋
+<h1 align="center">Hi there, I'm sutnip 👋</h1>
 
 > **Software Engineering Student | Open-Source Enthusiast | Photography Hobbyist**
 
