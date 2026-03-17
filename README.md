@@ -17,7 +17,7 @@ My main focus right now is a **Wikipedia CLI Tool**:
 ### 🛠 The Toolbox
 
 #### 💻 Development & Systems
-* **Languages:** C, C++, Python, HTML, MATLAB.
+* **Coding:** C, C++, Python, HTML, MATLAB.
 * **Environments:** Linux (Mint, MATE), Windows, Shell (Bash, PowerShell).
 * **Hardware:** Basic Arduino & board programming.
 
@@ -28,7 +28,7 @@ My main focus right now is a **Wikipedia CLI Tool**:
 #### 🧠 Knowledge & Organization
 * **PKM:** Obsidian (Power User), Notion.
 * **Management:** Kanban workflows, Personal Finance & Accounting.
-* **Languages:** Proficient in English (Technical & Conversational).
+* **Languages:** Italian native speaker, proficient in English (Technical & Conversational).
 
 ---
 
