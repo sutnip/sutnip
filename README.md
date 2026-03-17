@@ -6,7 +6,7 @@ I am a rational thinker with a creative soul. I believe in the power of open-sou
 
 ---
 
-### 🚀 Currently Building
+## 🚀 Currently Building
 My main focus right now is a **Wikipedia CLI Tool**:
 - **Purpose:** A command-line utility to interface with the MediaWiki API to sync and export articles from your reading or watch lists in multiple formats.
 - **Features:** Account authentication, remote sync, and automated local backups.
@@ -14,7 +14,11 @@ My main focus right now is a **Wikipedia CLI Tool**:
 
 ---
 
-### 🛠 The Toolbox
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+
+## 🛠 The Toolbox
 
 #### 💻 Development & Systems
 * **Coding:** C, C++, Python, HTML, MATLAB.
@@ -30,18 +34,19 @@ My main focus right now is a **Wikipedia CLI Tool**:
 * **Management:** Kanban workflows, Personal Finance & Accounting.
 * **Languages:** Italian native speaker, proficient in English (Technical & Conversational).
 
----
+    </td>
+    <td width="50%" valign="top">
 
-### 🌿 Philosophy & Interests
+## 🌿 Philosophy & Interests
 - **Open Knowledge:** Huge supporter of **Wikimedia** and independent learning.
 - **Digital Sovereignty:** Passionate about Privacy, Cybersecurity, and the **IndieWeb** movement.
 - **Aesthetics:** Analog Photography and Pixel Art.
 - **Soundtrack:** Jazz and Progressive Rock.
 
----
-
-### 📫 Connect with me
+## 📫 Connect with me
 - **Status:** Looking for interesting open-source projects to contribute to.
 - links coming soon...
 
----
+    </td>
+  </tr>
+</table>
