@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm sutnip 👋
 
-<!--
-**sutnip/sutnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Computer Engineering Student | Open-Source Enthusiast | Photography Hobbyist**
 
-Here are some ideas to get you started:
+I am a rational thinker with a creative heart and a "nerd" soul. I believe in the power of open-source software, digital privacy and self-learning. I'm here to improve my skills and have some fun with coding projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently Building
+My main focus right now is a **Wikipedia CLI Tool**:
+- **Purpose:** A command-line utility to interface with the MediaWiki API to sync and export articles from your reading or watch lists in multiple formats.
+- **Features:** Account authentication, remote sync, and automated local backups.
+- **Status:** Prototyping (Initial release coming soon).
+
+---
+
+### 🛠 The Toolbox
+
+#### 💻 Development & Systems
+* **Languages:** C, C++, Python, HTML, MATLAB.
+* **Environments:** Linux (Mint, MATE), Windows, Shell (Bash, PowerShell).
+* **Hardware:** Basic Arduino & board programming.
+
+#### 🎨 Creative & Design
+* **Visuals:** Aseprite (Pixel Art), Figma (UI/Icons), GIMP.
+* **Audio/Video:** Audacity, OBS.
+
+#### 🧠 Knowledge & Organization
+* **PKM:** Obsidian (Power User), Notion.
+* **Management:** Kanban workflows, Personal Finance & Accounting.
+* **Languages:** Proficient in English (Technical & Conversational).
+
+---
+
+### 🌿 Philosophy & Interests
+- **Open Knowledge:** Huge supporter of **Wikimedia** and independent learning.
+- **Digital Sovereignty:** Passionate about Privacy, Cybersecurity, and the **IndieWeb** movement.
+- **Aesthetics:** Analog Photography and Pixel Art.
+- **Soundtrack:** Jazz and Progressive Rock.
+
+---
+
+### 📫 Connect with me
+- **Status:** Looking for interesting open-source projects to contribute to.
+- links coming soon...
+
+---
