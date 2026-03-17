@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" alt="sutnip profile banner" width="1000px">
-</p>
 # Hi there, I'm sutnip 👋
 
 > **Software Engineering Student | Open-Source Enthusiast | Photography Hobbyist**
