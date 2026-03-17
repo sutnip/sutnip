@@ -1,6 +1,6 @@
 # Hi there, I'm sutnip 👋
 
-> **Computer Engineering Student | Open-Source Enthusiast | Photography Hobbyist**
+> **Software Engineering Student | Open-Source Enthusiast | Photography Hobbyist**
 
 I am a rational thinker with a creative heart and a "nerd" soul. I believe in the power of open-source software, digital privacy and self-learning. I'm here to improve my skills and have some fun with coding projects.
 
