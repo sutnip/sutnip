@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm sutnip 👋</h1>
+<h1 align="center">Hi there, I'm sutnip! 👋</h1>
 
-> **Software Engineering Student | Open-Source Enthusiast | Photography Hobbyist**
+> **Software Engineering Student | Open-Source Enthusiast | FOSS & EU Digital Autonomy Advocate**
 
 I am a rational thinker with a creative soul. I believe in the power of open-source software, digital privacy and self-learning. <br>
 I'm here to improve my skills and have some fun with coding projects.
@@ -21,9 +21,13 @@ My main focus right now is a **Wikipedia CLI Tool**:
 
 ## 🛠 The Toolbox
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,matlab,arduino,docker,linux,obsidian,figma,markdown" />
+</p>
+
 #### 💻 Development & Systems
 * **Coding:** C, C++, Python, HTML, MATLAB.
-* **Environments:** Linux (Mint, MATE), Windows, Shell (Bash, PowerShell).
+* **Environments:** Windows, Linux (Mint, MATE), Shell (Bash, PowerShell).
 * **Hardware:** Basic Arduino & board programming.
 
 #### 🎨 Creative & Design
@@ -32,17 +36,18 @@ My main focus right now is a **Wikipedia CLI Tool**:
 
 #### 🧠 Knowledge & Organization
 * **PKM:** Obsidian (Power User), Notion.
-* **Management:** Kanban workflows, Personal Finance & Accounting.
-* **Languages:** Italian native speaker, proficient in English (Technical & Conversational).
+* **Management:** Kanban workflows (Notion), Personal Finance & Accounting (Excel).
+* **Languages:** English (B2 - Professional Working Proficiency), Italian (Native Speaker)
 
     </td>
     <td width="50%" valign="top">
 
 ## 🌿 Philosophy & Interests
 - **Open Knowledge:** Huge supporter of **Wikimedia** and independent learning.
+- 🇪🇺 **European Sovereignty:** Strong supporter of the EU's digital autonomy and European-led open-source initiatives.
 - **Digital Sovereignty:** Passionate about Privacy, Cybersecurity, and the **IndieWeb** movement.
-- **Aesthetics:** Analog Photography and Pixel Art.
-- **Soundtrack:** Jazz and Progressive Rock.
+- **Hobbies:** Analog Photography, Indie Games and Pixel Art.
+- **What I listen to:** Jazz and Progressive Rock.
 
 ## 📫 Connect with me
 - **Status:** Looking for interesting open-source projects to contribute to.
