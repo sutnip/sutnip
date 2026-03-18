@@ -17,7 +17,7 @@ My main focus right now is a **Wikipedia CLI Tool**:
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
 
 ## 🛠 The Toolbox
 
@@ -26,21 +26,21 @@ My main focus right now is a **Wikipedia CLI Tool**:
 </p>
 
 #### 💻 Development & Systems
-* **Coding:** C, C++, Python, HTML, MATLAB.
-* **Environments:** Windows, Linux (Mint, MATE), Shell (Bash, PowerShell).
-* **Hardware:** Basic Arduino & board programming.
+- **Coding:** C, C++, Python, HTML, MATLAB.
+- **Environments:** Windows, Linux (Mint, MATE), Shell (Bash, PowerShell).
+- **Hardware:** Basic Arduino and board programming.
 
 #### 🎨 Creative & Design
-* **Visuals:** Aseprite (Pixel Art), Figma (UI/Icons), GIMP.
-* **Audio/Video:** Audacity, OBS.
+- **Visuals:** Aseprite (Pixel Art), Figma (UI/Icons), GIMP.
+- **Audio/Video:** Audacity, OBS.
 
 #### 🧠 Knowledge & Organization
-* **PKM:** Obsidian (Power User), Notion.
-* **Management:** Kanban workflows (Notion), Personal Finance & Accounting (Excel).
-* **Languages:** English (B2 - Professional Working Proficiency), Italian (Native Speaker)
+- **PKM:** Obsidian (Power User), Notion.
+- **Management:** Kanban workflows (Notion), Personal Finance & Accounting (Excel).
+- **Languages:** English (B2 - Professional Working Proficiency), Italian (Native Speaker)
 
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
 
 ## 🌿 Philosophy & Interests
 - **Open Knowledge:** Huge supporter of **Wikimedia** and independent learning.
