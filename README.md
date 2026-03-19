@@ -2,18 +2,17 @@
 
 > **Software Engineering Student | Open-Source Enthusiast | FOSS & EU Digital Autonomy Advocate**
 
-I am a rational thinker with a creative soul. I believe in the power of open-source software, digital privacy and self-learning. <br>
-I'm here to improve my skills and have some fun with coding projects.
+Analytical approach, creative output. I believe in open-source software, digital privacy and self-learning.<br>
+Here to improve my skills and have some fun coding.
 
 ---
 
 ## 🚀 Currently Building
-My main focus right now is a **Wikipedia CLI Tool**:
-- **Purpose:** A command-line utility to interface with the MediaWiki API to sync and export articles from your reading or watch lists in multiple formats.
+My current focus is a **Wikipedia CLI tool**:
+- **Purpose:** A command-line tool that interfaces with the MediaWiki API to sync and export articles from reading or watch lists in multiple formats.
 - **Features:** Account authentication, remote sync, and automated local backups.
-- **Status:** Prototyping (Initial release coming soon).
-
-<br>
+- **Stack:** Python, MediaWiki API, CLI design
+- **Status:** Prototyping (initial release coming soon).
 
 <table border="0">
   <tr>
