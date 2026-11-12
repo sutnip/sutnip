@@ -31,18 +31,18 @@ and a **Wikipedia CLI tool**:
 </p>
 
 #### 💻 Development & Systems
-- **Coding:** C, C++, Python, HTML, MATLAB.
+- **Coding:** C, C++, Python, HTML, CSS, Javascript, MATLAB.
 - **Environments:** Windows, Linux (Mint, MATE), Shell (Bash, PowerShell).
 - **Hardware:** Basic Arduino and board programming.
 
 #### 🎨 Creative & Design
-- **Visuals:** Aseprite (Pixel Art), Figma (UI/Icons), GIMP.
+- **Visuals:** Figma (UI/Icons), GIMP, Photoshop, Aseprite (Pixel Art).
 - **Audio/Video:** Audacity, OBS.
 
 #### 🧠 Knowledge & Organization
 - **PKM:** Obsidian (Power User), Notion.
 - **Management:** Kanban workflows (Notion), Personal Finance & Accounting (Excel).
-- **Languages:** English (B2 - Professional Working Proficiency), Italian (Native Speaker)
+- **Languages:** English (B2 - Professional Working Proficiency), Italian (Native Speaker), French (A1 - Beginner)
 
     </td>
     <td width="40%" valign="top">
