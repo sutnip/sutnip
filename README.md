@@ -8,11 +8,17 @@ Here to improve my skills and have some fun coding.
 ---
 
 ## 🚀 Currently Building
-My current focus is a **Wikipedia CLI tool**:
-- **Purpose:** A command-line tool that interfaces with the MediaWiki API to sync and export articles from reading or watch lists in multiple formats.
-- **Features:** Account authentication, remote sync, and automated local backups.
-- **Stack:** Python, MediaWiki API, CLI design
+My current focuses are a **Watchlist Manager**:
+- **Purpose:** A program that allows you to manage all your watchlists for different media in one place with a local first approach.
+- **Features:** Kanban management, input workspaces, exports for sharing interests, local download of metadata from APIs
+- **Stack:** Python, HTML, CSS, Javascript
 - **Status:** Prototyping (initial release coming soon).
+
+and a **Wikipedia CLI tool**:
+- **Purpose:** A command-line tool that interfaces with the MediaWiki API to sync and export articles from reading or watch lists in multiple formats.
+- **Features:** Account authentication, remote sync and automated local backups.
+- **Stack:** Python, MediaWiki API, CLI design
+- **Status:** Prototyping.
 
 <table border="0">
   <tr>
