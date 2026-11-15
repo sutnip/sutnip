@@ -7,7 +7,7 @@ Here to improve my skills and have some fun coding.
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 My current focuses are a **Watchlist Manager**:
 - **Purpose:** A program that allows you to manage all your watchlists for different media in one place with a local first approach.
 - **Features:** Kanban management, input workspaces, exports for sharing interests, local download of metadata from APIs
