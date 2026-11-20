@@ -15,7 +15,7 @@ My current focuses are a **Watchlist Manager**:
 - **Status:** Prototyping (initial release coming soon).
 
 and a **Wikipedia CLI tool**:
-- **Purpose:** A command-line tool that interfaces with the MediaWiki API to sync and export articles from reading or watch lists in multiple formats.
+- **Purpose:** A command-line tool that interfaces with the MediaWiki API to sync and export articles from reading lists in multiple formats.
 - **Features:** Account authentication, remote sync and automated local backups.
 - **Stack:** Python, MediaWiki API, CLI design
 - **Status:** Prototyping.
